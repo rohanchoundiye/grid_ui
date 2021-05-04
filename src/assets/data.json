@@ -1,0 +1,32 @@
+[
+    {
+        "id" : 1,
+        "firstName": "Rohan",
+        "lastName": "Choundiye", 
+        "emailAddres": "rohanrc5010@gmail.com"
+    },
+    {
+        "id" : 2,
+        "firstName": "Dipak",
+        "lastName": "perke", 
+        "emailAddres": "dipak_perke@gmail.com"
+    },
+    {
+        "id" : 3,
+        "firstName": "Mayur",
+        "lastName": "Mahamune", 
+        "emailAddres": "mayurmahamune77@gmail.com"
+    },
+    {
+        "id" : 4,
+        "firstName": "sohan",
+        "lastName": "Choundiye", 
+        "emailAddres": "sohanrc@gmail.com"
+    },
+    {
+        "id" : 5,
+        "firstName": "shahrukh",
+        "lastName": "Syeed", 
+        "emailAddres": "shahrukh_syeed@gmail.com"
+    }
+]
